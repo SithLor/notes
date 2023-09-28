@@ -1,0 +1,16 @@
+File Extenison 
+.sdoc
+
+Feature 
+marcos
+    You can Have tart build
+    ```typescript
+    config.json {
+        project:{
+            dir:{
+                
+            }
+        }
+    }
+    ```
+buil
